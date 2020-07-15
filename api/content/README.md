@@ -1,6 +1,11 @@
 # Overview
 Tickle.Life Content Partner API let's you get access to all stories published on Tickle.Life, via a simple to use API. To apply for a partner-access-api write to us at social@tickle.life.
 
+- [All Content](https://github.com/ticklelife/docs/blob/master/api/content/README.md#endpoint-for-all-content)
+- [Single Content](https://github.com/ticklelife/docs/blob/master/api/content/README.md#endpoint-for-single-content)
+- [Response Codes](https://github.com/ticklelife/docs/tree/master/api#response-codes)
+
+
 ## Endpoint for All Content
 `POST` `https://www.tickle.life/api/content/`
 
