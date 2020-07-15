@@ -1,1 +1,0 @@
-# Tickle.Life API Docs
